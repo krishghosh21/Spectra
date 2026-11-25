@@ -58,7 +58,7 @@ git clone https://github.com/krishghosh21/Spectra.git
 cd Spectra
 
 # 2. Install / update dependencies
-python3 -m pip install -U instagrapi requests
+python3 -m pip install -U instagrapi requests --break-system-packages
 
 # 3. Run
 python3 Spectra.py
