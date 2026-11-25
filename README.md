@@ -54,7 +54,7 @@
 
 ```bash
 # 1. Get the code
-git clone https://github.com/yourusername/Spectra.git
+git clone https://github.com/krishghosh21/Spectra.git
 cd Spectra
 
 # 2. Install / update dependencies
